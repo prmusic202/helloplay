@@ -12,11 +12,11 @@ https://is1.rtmp-sidney.streamvi.ru/live/48d3cbca-06e5-41f3-8c60-996b93145356.m3
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 #EXTINF:-1 group-title="LVTT SPORT" tvg-id="lvtt1" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj",LVTT SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://zjdmi53knyt.a.trbcdn.net/dazn1/index.m3u8
+https://dbs7crorjfn.a.trbcdn.net/dazn2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="LVTT SPORT DRM TiviMate" tvg-id="lvtt2" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj",LVTT SPORT 2 (DRM)
 #EXTINF:-1 group-title="LVTT SPORT" tvg-id="lvtt2" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj",LVTT SPORT 2
 #https://lj9mu2e1cgt.a.trbcdn.net/m1_laliga/index.m3u8
-https://ggl2605xwhr.a.trbcdn.net/dazn2/index.m3u8
+https://dbs7crorjfn.a.trbcdn.net/dazn1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="LVTT SPORT DRM TiviMate" tvg-id="lvtt3" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj",LVTT SPORT 3 (DRM)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -25,7 +25,7 @@ https://ggl2605xwhr.a.trbcdn.net/dazn2/index.m3u8
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd
 #EXTINF:-1 group-title="LVTT SPORT" tvg-id="lvtt3" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj",LVTT SPORT 3
 #https://zyc31x2inqj.a.trbcdn.net/m2_laliga/index.m3u8
-https://kmmc8syyiqt.a.trbcdn.net/dazn3/index.m3u8
+https://dbs7crorjfn.a.trbcdn.net/dazn3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="LVTT SPORT DRM TiviMate" tvg-id="lvtt4" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj",LVTT SPORT 4 (DRM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -46,7 +46,7 @@ https://stream1.cinerama.uz/1263/tracks-v1a2/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_key=eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
 https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
 #EXTINF:-1 group-title="LVTT SPORT" tvg-id="lvtt6" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj",LVTT SPORT 6
-http://stream1.cinerama.uz/1264/tracks-v1a2/mono.m3u8
+https://0r5jpun8b82.a.trbcdn.net/SportTV5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="LVTT SPORT DRM TiviMate" tvg-id="lvtt7" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj",LVTT SPORT 7 (DRM)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
@@ -60,17 +60,17 @@ https://live.kinescopecdn.net/on-air/55e73540-201b-42a2-b91e-96802a0ddc31/3ff568
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 #EXTINF:-1 group-title="LVTT SPORT" tvg-id="lvtt8" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj",LVTT SPORT 8
-https://zjdmi53knyt.a.trbcdn.net/dazn4/tracks-v1a1/mono.m3u8
+https://dbs7crorjfn.a.trbcdn.net/dazn4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="LVTT SPORT DRM TiviMate" tvg-id="lvtt9" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj",LVTT SPORT 9 (DRM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
 https://live.mocdn.tv/out/v1/71088100af0c4be4ae35a0bfb7f8d1ac/manifest_L1.mpd
 #EXTINF:-1 group-title="LVTT SPORT" tvg-id="lvtt9" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj",LVTT SPORT 9
-https://zjdmi53knyt.a.trbcdn.net/dazn5/tracks-v1a1/mono.m3u8
+https://dbs7crorjfn.a.trbcdn.net/dazn5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="LVTT SPORT DRM TiviMate" tvg-id="lvtt10" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj",LVTT SPORT 10 (DRM)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
 https://live.mocdn.tv/out/v1/71088100af0c4be4ae35a0bfb7f8d1ac/manifest_L1.mpd
 #EXTINF:-1 group-title="LVTT SPORT" tvg-id="lvtt10" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj",LVTT SPORT 10
-https://j87cbt2wo7n.a.trbcdn.net/dazn6/tracks-v1a1/mono.m3u8
+https://dbs7crorjfn.a.trbcdn.net/dazn6/tracks-v1a1/mono.m3u8
